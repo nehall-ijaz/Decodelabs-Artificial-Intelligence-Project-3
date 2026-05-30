@@ -117,7 +117,7 @@ By completing this project, I gained practical experience in:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author Nehall Ijaz
 
 Developed as part of the DecodeLabs Artificial Intelligence Internship Program.
 
